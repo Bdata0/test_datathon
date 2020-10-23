@@ -24,11 +24,11 @@
 
 
 ## 2. Необходимые модули
-pandas  
-numpy  
-matplotlib  
-datetime  
-folium  
+* pandas *- для работы с источниками данных*  
+* numpy  
+* matplotlib *- для визуализации графиков* 
+* datetime  
+* folium *- для визуализации зон на карте* 
 
 
 ## 3. Dataset
