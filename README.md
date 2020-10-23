@@ -21,7 +21,16 @@
 
 
 ## 1. Введение
+<details>
+<summary>Click this to collapse/fold.</summary>
 
+These details _remain_ **hidden** until expanded.
+
+```
+PASTE LOGS HERE
+```
+
+</details>
 
 ## 2. Необходимые модули
 * pandas *- для работы с источниками данных*  
