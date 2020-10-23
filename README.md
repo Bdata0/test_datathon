@@ -22,14 +22,11 @@
 
 ## 1. Введение
 <details>
-<summary>Детали</summary>
-
-Эти детали _будут_ **скрыты** пока не нажмешь на стрелку.
-
-```
-Здесь код
-```
-
+    <summary>Click me to collapse/fold.</summary>
+    These details will remain hidden until expanded.
+    <pre>
+        <code>PASTE LOGS HERE</code>
+    </pre>
 </details>
 
 ## 2. Необходимые модули
