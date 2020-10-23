@@ -151,7 +151,7 @@ folium
 
 Предприятия-загрязнители окружающей среды.
   
-
+   [good place pic]: <gut_place_heatmap.png>
    [header pic]: <https://live.staticflickr.com/5016/5492243495_b296955bc9_k_d.jpg> 
    Header Pic "Smoke" by Tree Leaf Clover is licensed with CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/
  
@@ -159,4 +159,4 @@ folium
 
 ### 3.6. Тепловая карта локаций с экологически благоприятной средой
 
-gut_place_heatmap.html
+![good place pic]
