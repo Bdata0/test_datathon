@@ -24,11 +24,11 @@
 
 
 ## 2. Необходимые модули
-pandas
-numpy
-matplotlib
-datetime
-folium
+pandas  
+numpy  
+matplotlib  
+datetime  
+folium  
 
 
 ## 3. Dataset
