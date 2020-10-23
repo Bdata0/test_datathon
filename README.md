@@ -22,12 +22,12 @@
 
 ## 1. Введение
 <details>
-<summary>Click this to collapse/fold.</summary>
+<summary>Детали</summary>
 
-These details _remain_ **hidden** until expanded.
+Эти детали _будут_ **скрыты** пока не нажмешь на стрелку.
 
 ```
-PASTE LOGS HERE
+Здесь код
 ```
 
 </details>
